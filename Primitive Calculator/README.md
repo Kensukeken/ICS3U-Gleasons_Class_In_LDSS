@@ -8,6 +8,6 @@ Here is a Sample Program:
 ## Didn't work? Check Out My Projects Below.
 
 My assignment here (Using "int"):
-[Make a Primitive Calculator assignment.cpp](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Primitive%20Calculator/Make%20a%20Primitive%20Calculator%20assignment.cpp) <br />
+[calc.cpp](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Primitive%20Calculator/calc.cpp) <br />
 I also made another one but using "double" and that's still works:
 [calc_using_double.cpp](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Primitive%20Calculator/calc_using_double.cpp)
