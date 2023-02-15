@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Welcome to Calculator\n");
     double num1, num2;
 
     printf("Enter the first number:\n");
