@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+//This is the assignment 
+//Date: 15/02/2023
+//Let's get started
 int main() {
     printf("Welcome to Calculator\n");
     int num1, num2;
