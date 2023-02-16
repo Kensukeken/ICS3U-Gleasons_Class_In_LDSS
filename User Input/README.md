@@ -9,6 +9,7 @@ scanf("%d",&age); //Get value and store it in age
 //Now you can use age wherever you want in your program
 printf("In 10 years you will be %d",age+10);
 ```
+![image](https://user-images.githubusercontent.com/85637598/219511508-8300121e-f400-47b5-946f-aa0d7702bca2.png)
 
 To scan an integer, use `%d` and to scan a double use `%lf`.
 
