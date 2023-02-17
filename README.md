@@ -52,14 +52,16 @@ The computer ignores comments. We use comments to keep code organized, leave not
 1. Add comments to our code.
 2. Output lines of our own on separate lines.
 3. Create the following pattern: <br/>
-![Screen Short](https://media.discordapp.net/attachments/926667187006099466/1075603644155711570/aiMFBPqZpdwAAAABJRU5ErkJggg.png)
+![Screen Short](https://media.discordapp.net/attachments/926667187006099466/1075603644155711570/aiMFBPqZpdwAAAABJRU5ErkJggg.png) <br/>
 
 Check out here for this topic: [Hello World!](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Hello%20World!)
 
 ## Introduction 
 Using your knowledge of outputting to the console, write a program **called initials.cpp** that displays the initials of your name in block letters.
 For example, if your initials were SL, your console output would look like this: <br/>
-![image](https://user-images.githubusercontent.com/85637598/219512041-cb007226-c035-415f-a596-d3f0151ccab2.png)
+![image](https://user-images.githubusercontent.com/85637598/219512041-cb007226-c035-415f-a596-d3f0151ccab2.png) <br/>
+Check out here for this topic: [Block Ltters](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Block%20Letters)
+
 
 # The Process
 
@@ -85,7 +87,9 @@ The executable is loaded from the disk to memory and the computer’s CPU (Centr
 - Compile and execute the program ourselves, without Repl.its run button doing it for us.
 **Note**: You do not need to manually compile and execute future programs, but understand what is happening when we 'run' a program.
 
-![ScreenShot](https://cdn.discordapp.com/attachments/926667187006099466/1075554111375818772/download_1.png)
+![ScreenShot](https://cdn.discordapp.com/attachments/926667187006099466/1075554111375818772/download_1.png) <br/>
+Check out here for this topic: [The Process](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/The%20Process)
+
 
 ## Introduction to Variables
 The "Hello World!" program simply writes to the screen. It does not read anything, calculate anything, or allow for user input. That’s no fun!
@@ -133,11 +137,14 @@ Here are the arithmetic operators:
 ## Order of Operations
 Expressions with more than one operator will follow BEDMAS. If you want certain calculations performed first, use brackets.
 
-`answer = 4 - 5 * 2 + 3;` has a result of -3, whereas `answer = (4 - 5) * (2 + 3);` has a result of -5.
+`answer = 4 - 5 * 2 + 3;` has a result of -3, whereas `answer = (4 - 5) * (2 + 3);` has a result of -5. <br/>
+Check out here for this topic: [Interaction To Variables](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Introduction%20to%20variables)
+
 
 ## Tax Calculator
 Create a program that will calculate the tax on a price. <br/>
-![image](https://user-images.githubusercontent.com/85637598/219392159-3cd3920e-4025-4bf9-bd64-a8c88d716d1a.png)
+![image](https://user-images.githubusercontent.com/85637598/219392159-3cd3920e-4025-4bf9-bd64-a8c88d716d1a.png) <br/>
+Check out here for this topic: [Tax Calculator](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Tax%20Calculator)
 
 ## A New Input/Output Library
 You will now see `#include <stdio.h>` as the first line of our program. This is an alternative input and output library that allows us to print to the console and get user input.
@@ -154,7 +161,9 @@ To print variables and text together, indicate where you would like your variabl
 ## Formatting Output
 If we want to format our output (for example, keep prices to 2 decimal places), we can add number values to the % placeholder that will indicate the number of decimal places to show.
 
-`printf("The price with tax is %.2lf");`
+`printf("The price with tax is %.2lf");` <br/>
+Check out here for this topic: [New IO Library ](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/New%20IO%20Library)
+
 
 ## Getting Numerical User Input
 `scanf` allows us to get input from the user. We tell it what type of information to expect and where to store the value. Then we can use the value wherever we'd like.
@@ -172,7 +181,9 @@ printf("In 10 years you will be %d",age+10);
 To scan an integer, use `%d` and to scan a double use `%lf`.
 
 Side Note:
-`scanf` has real trouble scannning chars, so trying to scan a %c usually doesn't work. But there is no need for them to fix it because alternatives for text exist (we will learn those soon).
+`scanf` has real trouble scannning chars, so trying to scan a %c usually doesn't work. But there is no need for them to fix it because alternatives for text exist (we will learn those soon). <br/>
+Check out here for this topic: [User Input](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/User%20Input)
+
 
 ## Make a Primitive Calculator
 Create a program that gets 2 numbers from the user. Display the result of the 4 basic math operations (+, - , *, /). <br />
@@ -186,4 +197,7 @@ Here is a Sample Program:
 My assignment here (Using "int"):
 [calc.cpp](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Primitive%20Calculator/calc.cpp) <br />
 I also made another one but using "double" and that's still works:
-[calc_using_double.cpp](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Primitive%20Calculator/calc_using_double.cpp)
+[calc_using_double.cpp](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Primitive%20Calculator/calc_using_double.cpp) <br/>
+
+Check out here for this topic: [Primitive Calculator](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Primitive%20Calculator)
+___________________________________________________________________________________________________________________________
