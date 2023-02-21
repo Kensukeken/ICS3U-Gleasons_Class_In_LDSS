@@ -4,10 +4,10 @@
 int main () {
 
 	//Declare some strings!
-  char name[] = ("Hia\n");
+  char name[] = ("Kensukeken\n");
   printf("%s", name);
 
-  char password[9] = "k&sxY6b2";
+  char password[9] = "!@#$%6&ey";
   printf("%s", password);
 
   //Scan a string!
@@ -31,6 +31,7 @@ int main () {
   int age;
   printf("Please enter your age: ");
   scanf("%d", &age);
+  
   printf("Welcome %s %s! You are %d years old.\n", firstname, lastname, age); // Combined the output and added a newline character
 
 }
