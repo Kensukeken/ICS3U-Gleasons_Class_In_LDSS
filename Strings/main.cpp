@@ -4,10 +4,10 @@
 int main () {
 
 	//Declare some strings!
-  char name[] = ("(Blank\n");
+  char name[] = ("Hia\n");
   printf("%s", name);
 
-  char password[9] = "@#%^&$^%&$";
+  char password[9] = "k&sxY6b2";
   printf("%s", password);
 
   //Scan a string!
@@ -19,21 +19,18 @@ int main () {
   //There are actual ways to print lines of data with space. if you ever need one. look it up. Will not it to this course.
   
   
-	//Task
-  char firstname[10]; 
-  printf("Please enter your name:");
-  scanf("%s", firstname);
+// Task
+  char firstname[11]; // Increased the size to accommodate up to 10 characters plus the null terminator
+  printf("Please enter your first name: ");
+  scanf("%10s", firstname); // Limited the input to 10 characters and added the size specifier
 
-  char lastname[10];
-  printf("Please enter your last name");
-  scanf("%s", lastname);
-  
-  char age[10000];
-  printf("Please enter your age\n");
-  scanf("%s", age);
+  char lastname[11]; // Increased the size to accommodate up to 10 characters plus the null terminator
+  printf("Please enter your last name: ");
+  scanf("%10s", lastname); // Limited the input to 10 characters and added the size specifier
 
-  char useInput[100];
-  printf("Welcome %s %s.", firstname, lastname);
-  printf("You are %s", age);
-  
+  int age;
+  printf("Please enter your age: ");
+  scanf("%d", &age);
+  printf("Welcome %s %s! You are %d years old.\n", firstname, lastname, age); // Combined the output and added a newline character
+
 }
