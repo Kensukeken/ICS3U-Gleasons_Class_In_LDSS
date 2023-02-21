@@ -11,8 +11,6 @@ Here what we learned in `C++` in Ms. Gleason Class In LDSS. They may be useful f
  Algorithm Solution | **[topic name]-algorithm.txt** | Algorithm solution to a question is written in a `.txt` txt file in same folder where question is mentioned.
  Technical Writing | **[topic name]-content.md** or **[topic name]-content.txt** | Technical content can be provided in simple `.txt` text document. You can also style it up and submit a `.md` file if you are aquainted with markdown language.
 
-## Projects
-![image](https://user-images.githubusercontent.com/85637598/219391028-899bc3bc-dd16-459e-a2ae-0ad63e25ac65.png)
 
 ## Hello World!
 Take a look at the hello.cpp file in the code editor that is placed in the middle of the screen. It’s a C++ program!
