@@ -4,10 +4,10 @@
 int main () {
 
 	//Declare some strings!
-  char name[] = ("Hia\n");
+  char name[] = ("(Blank\n");
   printf("%s", name);
 
-  char password[9] = "k&sxY6b2";
+  char password[9] = "@#%^&$^%&$";
   printf("%s", password);
 
   //Scan a string!
