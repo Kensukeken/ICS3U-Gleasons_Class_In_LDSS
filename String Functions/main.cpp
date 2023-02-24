@@ -12,6 +12,8 @@ int main() {
 	printf("%c\n", *name);
 	printf("%c\n", *(name + 1));
 	printf("%c\n", *(name + 7));
+	printf("%c\n", *(name + 11));
+	printf("%c\n", *(name + 6));
 
 	/* Questions
 		1a: What is the purpose of the *?
@@ -86,6 +88,7 @@ int main() {
 	printf("%s\n", friendName);
 	printf("%s\n", lastName);
 	
+	strcat(friendName, "MiddleName ");
 	strcat(friendName, lastName);
 	printf("%s\n",friendName);
 
