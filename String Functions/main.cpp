@@ -15,20 +15,12 @@ int main() {
 
 	/* Questions
 		1a: What is the purpose of the *?
-  
-It multiplay the function
 
 		1b: What do the numbers represent?
 
-It repesent the string function based on number 
-
 		1c: What will *(name + 11) print out? Predict first then test it out.
 
-It will print the letter of function
-
 		1d: What will *(name + 12) print out? Predict first then test it out.
-
-Prints the number of the function
 
 
 		1e: Write a line of code that will output the 'P' in the name.
@@ -46,21 +38,13 @@ Prints the number of the function
 	/* Questions
 		2a: What does the function strlen() do?
 
-
-
 		2b: What type of data does %zu represent? (We will talk about this.)
-
-
 
 		2c: Predict the output of the following:
 		    char otherName[] = "Hermione Granger";
 			printf("%zu \n", strlen(otherName));
 
-
-
 		2d: Does the strlen() function count the \0 delimiter?
-
-
 
 	*/
 
@@ -76,17 +60,11 @@ Prints the number of the function
 
 	/* Questions
 		3a: What does the function strcpy() do?
-
-
-
+		
 		3b: What happens if you chang owl[7] to owl[6]? Why does this happen?
-
-
 
 		3c: What happens if you chang owl[7] to owl[10]?
 	*/
-
-  
 
 	// 4 ---------------------------------------
 	printf("\n");
@@ -102,13 +80,9 @@ Prints the number of the function
 	/* Questions
 		4a: What does the function strcat() do?
 
-
-
 		4b: What happens if you switch the order of the variables in the function? 
 			strcat(lastName, friendName);
 		4c: Can you figure out how to add a space between Ron and Weasley?
-
-
 
 	*/
 
@@ -130,20 +104,12 @@ Prints the number of the function
 	/* Questions
 		5a: What does the function strcmp() do?
 
-
-
 		5b: What do the numbers 1, -1, and 0 represent?
-
-
 
 		5c: Predict what the following code will output and then check:
 			printf("%d\n",strcmp(spell3, spell4));
 
-
-
 		5d: Predict what the following code will output and then check:
-
-
 
 			printf("%d\n",strcmp(spell2, spell4));
 	*/
