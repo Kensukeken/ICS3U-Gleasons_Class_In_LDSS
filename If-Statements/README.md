@@ -5,10 +5,12 @@ Is it hot outside?
 Has the spaceship reached the edge of the screen?
 Has too much money been withdrawn from the account?
 If-statements are formatted like so:
-
+```bash
 if(condition){
 	//execute this code
-} <br/>
+} 
+```
+<br/>
 
 
 To check a condition, we can compare numbers (literal numbers or variables) using `<`, `<=`,`>`,`>=`,`==`,`!=`.
