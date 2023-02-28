@@ -53,13 +53,14 @@ The computer ignores comments. We use comments to keep code organized, leave not
 ![Screen Short](https://media.discordapp.net/attachments/926667187006099466/1075603644155711570/aiMFBPqZpdwAAAABJRU5ErkJggg.png) <br/>
 
 Check out here for this topic: [Hello World!](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Hello%20World!)
+___________________________________________________________________________________________________________________________
 
 ## Introduction 
 Using your knowledge of outputting to the console, write a program **called initials.cpp** that displays the initials of your name in block letters.
 For example, if your initials were SL, your console output would look like this: <br/>
 ![image](https://user-images.githubusercontent.com/85637598/219512041-cb007226-c035-415f-a596-d3f0151ccab2.png) <br/>
 Check out here for this topic: [Block Ltters](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Block%20Letters)
-
+___________________________________________________________________________________________________________________________
 
 # The Process
 
@@ -87,7 +88,7 @@ The executable is loaded from the disk to memory and the computer’s CPU (Centr
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/926667187006099466/1075554111375818772/download_1.png) <br/>
 Check out here for this topic: [The Process](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/The%20Process)
-
+___________________________________________________________________________________________________________________________
 
 ## Introduction to Variables
 The "Hello World!" program simply writes to the screen. It does not read anything, calculate anything, or allow for user input. That’s no fun!
@@ -137,12 +138,13 @@ Expressions with more than one operator will follow BEDMAS. If you want certain 
 
 `answer = 4 - 5 * 2 + 3;` has a result of -3, whereas `answer = (4 - 5) * (2 + 3);` has a result of -5. <br/>
 Check out here for this topic: [Interaction To Variables](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Introduction%20to%20variables)
-
+___________________________________________________________________________________________________________________________
 
 ## Tax Calculator
 Create a program that will calculate the tax on a price. <br/>
 ![image](https://user-images.githubusercontent.com/85637598/219392159-3cd3920e-4025-4bf9-bd64-a8c88d716d1a.png) <br/>
 Check out here for this topic: [Tax Calculator](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Tax%20Calculator)
+___________________________________________________________________________________________________________________________
 
 ## A New Input/Output Library
 You will now see `#include <stdio.h>` as the first line of our program. This is an alternative input and output library that allows us to print to the console and get user input.
@@ -161,7 +163,7 @@ If we want to format our output (for example, keep prices to 2 decimal places), 
 
 `printf("The price with tax is %.2lf");` <br/>
 Check out here for this topic: [New IO Library ](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/New%20IO%20Library)
-
+___________________________________________________________________________________________________________________________
 
 ## Getting Numerical User Input
 `scanf` allows us to get input from the user. We tell it what type of information to expect and where to store the value. Then we can use the value wherever we'd like.
@@ -182,6 +184,7 @@ Side Note:
 `scanf` has real trouble scannning chars, so trying to scan a %c usually doesn't work. But there is no need for them to fix it because alternatives for text exist (we will learn those soon). <br/>
 Check out here for this topic: [User Input](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/User%20Input)
 
+___________________________________________________________________________________________________________________________
 
 ## Make a Primitive Calculator
 Create a program that gets 2 numbers from the user. Display the result of the 4 basic math operations (+, - , *, /). <br />
@@ -198,6 +201,7 @@ I also made another one but using "double" and that's still works:
 [calc_using_double.cpp](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Primitive%20Calculator/calc_using_double.cpp) <br/>
 
 Check out here for this topic: [Primitive Calculator](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Primitive%20Calculator)
+___________________________________________________________________________________________________________________________
 
 ## Strings
 Strings are a sequence of characters like a word or a phrase.
@@ -226,10 +230,12 @@ scanf("%s",name);
 Ask the user for their first name, last name, and age and print a sentence that compiles the information: <br/>
 ![image](https://user-images.githubusercontent.com/85637598/220459114-639c24c7-51ca-4d3e-a9de-41546c1f5685.png) <br/>
 Check out here for this topic: [Strings](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Strings)
+___________________________________________________________________________________________________________________________
 
 ## String Functions
 Run the code and answer the questions that follow each snippet to determine how each string function works.<br/>
 Check out here for this topic: [String Functions](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/String%20Functions) 
+___________________________________________________________________________________________________________________________
 
 ## Add colour to the Console
 To change text color, precede your text with "\033[0;0m". <br/>
@@ -261,6 +267,7 @@ int main() {
 }
 ```
 Check out the topic here: [Add Colour to the Console](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Add%20Colour%20to%20the%20Console) <br/>
+___________________________________________________________________________________________________________________________
 
 ## If-Statements
 The if-statement allows a computer to make a decision.
@@ -281,6 +288,8 @@ To check a condition, we can compare numbers (literal numbers or variables) usin
 
 If the condition is true, the code inside the curly brackets will execute. If the condition is false, the code inside the curly brackets will be completely skipped over. 
 Check out the topic here: [If-Statement](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements) <br/>
+___________________________________________________________________________________________________________________________
+
 ## Create Programs Using If-Statements
 1. Have a user enter a temperature. If the temperature is greater than 32 degrees, print `It's hot outside!` to the console. If the temperature is less than 4 degrees, print `It's chilly outside!` to the console.
 2. Write a program that determines if a user-inputted number is negative, positive, or zero.
