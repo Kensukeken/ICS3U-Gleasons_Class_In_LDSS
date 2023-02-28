@@ -226,4 +226,8 @@ scanf("%s",name);
 Ask the user for their first name, last name, and age and print a sentence that compiles the information: <br/>
 ![image](https://user-images.githubusercontent.com/85637598/220459114-639c24c7-51ca-4d3e-a9de-41546c1f5685.png) <br/>
 Check out here for this topic: [Strings](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Strings)
+
+## String Functions
+Run the code and answer the questions that follow each snippet to determine how each string function works.
+
 ___________________________________________________________________________________________________________________________
