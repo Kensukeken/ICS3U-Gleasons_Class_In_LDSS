@@ -228,6 +228,66 @@ Ask the user for their first name, last name, and age and print a sentence that 
 Check out here for this topic: [Strings](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Strings)
 
 ## String Functions
-Run the code and answer the questions that follow each snippet to determine how each string function works.
+Run the code and answer the questions that follow each snippet to determine how each string function works.<br/>
+Check out here for this topic: [String Functions](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/String%20Functions) 
+
+## Add colour to the Console
+To change text color, precede your text with "\033[0;0m". <br/>
+```bash
+#include <stdio.h>
+
+int main() {
+  	//Add colour to the console!
+
+	/*  To change text color, precede your text with "\033[0;0m".
+		Just replace the 0m with the colour code of your choice:
+  		- 30m black
+  		- 31m red
+  		- 32m green
+  		- 33m yellow
+  		- 34m blue
+  		- 35m purple
+  		- 36m cyan
+  		- 37m white
+  		- 0m reset
+  	*/
+
+	//For example:
+	printf("\033[0;31mHello in red!\n");
+	printf("\033[0;32mHello in green!\n");
+	printf("\033[0;35mHello in purple!\n");
+	printf("\033[0;36mHello in cyan!\n");
+	
+}
+```
+Check out the topic here: [Add Colour to the Console](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Add%20Colour%20to%20the%20Console) <br/>
+
+## If-Statements
+The if-statement allows a computer to make a decision.
+
+Is it hot outside?
+Has the spaceship reached the edge of the screen?
+Has too much money been withdrawn from the account?
+If-statements are formatted like so:
+```bash
+if(condition){
+	//execute this code
+} 
+```
+<br/>
+
+
+To check a condition, we can compare numbers (literal numbers or variables) using `<`, `<=`,`>`,`>=`,`==`,`!=`.
+
+If the condition is true, the code inside the curly brackets will execute. If the condition is false, the code inside the curly brackets will be completely skipped over. 
+Check out the topic here: [If-Statement](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements) <br/>
+## Create Programs Using If-Statements
+1. Have a user enter a temperature. If the temperature is greater than 32 degrees, print `It's hot outside!` to the console. If the temperature is less than 4 degrees, print `It's chilly outside!` to the console.
+2. Write a program that determines if a user-inputted number is negative, positive, or zero.
+3. Write a program that allows a user to see their name printed in their chosen colour.
+## Sample Program
+![image](https://user-images.githubusercontent.com/85637598/221994228-fc306d49-d6d9-4f40-ad75-283b53a7e028.png)
+
+Check out the topic here: [Create Programs Using If-Statements](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%201) <br/>
 
 ___________________________________________________________________________________________________________________________
