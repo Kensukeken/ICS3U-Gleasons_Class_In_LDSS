@@ -3,7 +3,7 @@ If-else statements allow us to have an or-else condition. If the condition of th
 
 You can have 1 condition and 1 else statement:
 
-```bash
+```cpp
 if(condition){
 	//if true, execute this
 } else {
@@ -12,7 +12,7 @@ if(condition){
 ```
 or you can have many conditions and 1 else statement:
 
-```bash
+```cpp
 if(condition){
 	//if true, execute this
 } else if (condition) {
@@ -24,7 +24,7 @@ if(condition){
 }
 ```
 or you can have many conditions and no else statement:
-```bash
+```cpp
 if(condition){
 	//if true, execute this
 } else if (condition) {
