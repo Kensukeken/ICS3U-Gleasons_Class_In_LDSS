@@ -13,10 +13,10 @@ int main() {
     printf("The first number is greater than the second number.\n");
   } 
   if(num1 < num2){
-    printf("The first number is less than second number \n");
+    printf("The first number is less than second number. \n");
   }
   if(num1 == num2){
-    printf("The number are equal");
+    printf("The numbers are equal.\n");
   }
 
 	printf("\n\n-----------------------\n\n");
@@ -41,6 +41,19 @@ int main() {
     printf("$1.25");
   }
   if (strcmp(foodName, "Sunchips") == 0){
+    printf("$0.75");
+  }
+  //I made the "foodName" characters using the small letter below
+  if (strcmp(foodName, "cheetos") == 0){
+    printf("$0.50");
+  } 
+  if (strcmp(foodName, "twix") == 0){
+    printf("$1");
+  }
+  if (strcmp(foodName, "kitkat") == 0){
+    printf("$1.25");
+  }
+  if (strcmp(foodName, "sunchips") == 0){
     printf("$0.75");
   }
   
