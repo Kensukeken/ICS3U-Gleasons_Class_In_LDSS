@@ -3,7 +3,7 @@
 
 int main() {
   	//1. COMPARE NUMBERS
-	printf("Please enter 2 number:\n");
+	printf("Please enter 2 numbers:\n");
   int num1;
   int num2;
   scanf("%d", &num1);
