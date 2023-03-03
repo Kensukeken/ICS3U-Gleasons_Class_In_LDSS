@@ -358,3 +358,15 @@ Use proper if-elseif-else chains to create the following programs:
 ![image](https://user-images.githubusercontent.com/85637598/222169812-4f40e19d-ca59-4798-8fd5-b314ead82ac0.png) <br/>
 Check out the topic here: [If-Statements Exercises 3](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%203)
 ___________________________________________________________________________________________________________________________
+## Nested Ifs and Boolean Operators Exercises
+1. Trace the code and run it. What is the difference in output between Code A and Code B? Why does this occur?
+
+2. I coded this snippet expecting it to print out Oranges since b=1. Why does this not occur? What would you do to fix it?
+
+3. Rewrite this code snippet to use Boolean logic instead of nested ifs.
+
+4. Write a program using an if-elseif-else chain and nested ifs OR Boolean operators that takes in 3 numbers from the user and determines the largest value of the 3. <br/>
+![image](https://user-images.githubusercontent.com/85637598/222450158-62e33bb2-c81e-45ad-9550-d681ebe1f324.png) <br/>
+Check out the topic here: [If-Statements Exercises 4](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%204)
+___________________________________________________________________________________________________________________________
+
