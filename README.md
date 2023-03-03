@@ -1,6 +1,7 @@
 # Welcome to ICS3U-Gleasons_Class_In_LDSS
 Spring 2023 - GleasonsICS3U using C++. <br/>
-Here what we learned in `C++` in Ms. Gleason Class In LDSS. They may be useful for your future.
+I have recorded everything on what we learned in `C++` in Ms. Gleason Class In LDSS. They may be useful for your future. <br/>
+Scroll down for more!
 
 ## File Naming Convention
 
