@@ -370,4 +370,10 @@ ________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/85637598/222450158-62e33bb2-c81e-45ad-9550-d681ebe1f324.png) <br/>
 Check out the topic here: [If-Statements Exercises 4](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%204)
 ___________________________________________________________________________________________________________________________
+## Add Colour to the Console
 
+![image](https://user-images.githubusercontent.com/85637598/222797192-76eff990-404b-405b-ae68-86cb7a20f513.png) <br/>
+## Add Colour and clear the Console
+![image](https://user-images.githubusercontent.com/85637598/222796971-4eccf5ce-ee62-4ed7-9426-0e0453936707.png) <br/>
+Check out the topic here: [Add Colour to the Console](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Add%20Colour%20to%20the%20Console)
+___________________________________________________________________________________________________________________________
