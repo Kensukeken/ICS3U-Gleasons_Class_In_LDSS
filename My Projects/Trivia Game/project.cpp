@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-//Hello Welcome to my Project for trivia game/quiz.
+//Hello Welcome to my Project for a trivia game/quiz. =)
 int main() {
   //I made my quiz about the math questions.
   printf("Welcome to Trivia Quiz! In this quiz, you'll be able to answer a few maths questions.\n\n"); //This line represents the welcome =)
@@ -23,6 +23,7 @@ int main() {
 }
   printf("\n\n");
 
+  int score = 0;
   //Question Number 1
   printf("Question 1\n");
   printf("What is 60+9?\n");
@@ -32,10 +33,11 @@ int main() {
   scanf("%s", entry1);
   if(strcmp(entry1, answer1) ==0){
     printf("Correct!\n");
+    score++;
   } else {
     printf("Wrong the correct answer is 69\n");
   }
-  printf("Your score %d out 6\n");
+  printf("Your score %d out 6\n", score);
 
   printf("\n\n");
 
@@ -49,10 +51,11 @@ int main() {
   scanf("%s", entry2);
   if(strcmp(entry2, answer2) == 0){
     printf("Correct!\n");
+    score++;
   } else {
     printf("Wrong the correct answer is -3\n");
   }
-  printf("Your score %d out 6\n");
+  printf("Your score %d out 6\n", score);
   printf("\n\n");
 
 //Question Number 3
@@ -65,10 +68,11 @@ int main() {
   scanf("%s", entry3);
   if(strcmp(entry3, answer3) == 0){
     printf("Correct!\n");
+    score++;
   } else {
     printf("Wrong the correct answer is E \n");
   }
-  printf("Your score %d out 6\n");
+  printf("Your score %d out 6\n", score);
   printf("\n\n");
 
 //Question Number 4
@@ -79,10 +83,11 @@ int main() {
   scanf("%s", entry4);
   if(strcmp(entry4, answer4) == 0){
     printf("Correct!\n");
+    score++;
   } else {
     printf("Wrong the correct answer is 5280 \n");
   }
-  printf("Your score %d out 6\n");
+  printf("Your score %d out 6\n",score);
   printf("\n\n");
 
 //Question Number 5
@@ -94,10 +99,11 @@ int main() {
   scanf("%s", entry5);
   if(strcmp(entry5, answer5) == 0){
     printf("Correct!\n");
+    score++;
   } else {
     printf("Wrong the correct answer is C \n");
   }
-  printf("Your score %d out 6\n");
+  printf("Your score %d out 6\n", score);
   printf("\n\n");
 
 //Question Number 6
@@ -109,11 +115,24 @@ int main() {
   scanf("%s", entry6);
   if(strcmp(entry6, answer6) == 0){
     printf("Correct!\n");
-
+    score++;
   } else {
     printf("Wrong the correct answer is A \n");
   }
-  printf("Your score %d out 6\n");
+  printf("Your score %d out 6.\n", score);
   printf("\n\n");
+
+  int finalScore = (int)(score / 6.0 * 100);
+  int correct = score;
+  int wrong = 6 - score;
+  printf("\nCongratulations! You got %d right and %d wrong.\n", correct, wrong);
+  printf("your final score is %d\n", finalScore);
+  if (finalScore >= 80) {
+    printf("You passed! Great job!\n");
+  } else if (finalScore >= 50) {
+    printf("You were close. Keep practicing!\n");
+  } else {
+    printf("Sorry, you failed. Keep studying and practicing.\n");
+  }
 
 }
