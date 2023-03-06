@@ -69,13 +69,14 @@ int main() {
   printf("\033[0;37mLook at this series: 22, 21, 23, 22, 24, 23, … What number should "
          "come next?\n");
   printf("\nA.21\nB.22\nC.23\nD.24\nE.25\n");
+  
   char correctAnswer3[] = "E";
   char userAnswer3[3];
   scanf("%s", userAnswer3);
-  if (strcmp(userAnswer3, correctAnswer3) == 0) {
-    printf("\033[0;32mCorrect!\n");
+  if (strcmp(correctAnswer3, userAnswer3) == 0 || strcmp(userAnswer3, "e") == 0) {
+  printf("\nCorrect!");
     score++;
-  } else {
+} else{
     printf("\033[0;31mWrong the correct answer is E \n");
     printf("\033[0;32mExplanation: The next number in the series is 25, obtained by adding 2 to the previous number (23).");
   }
@@ -105,7 +106,7 @@ int main() {
   char correctAnswer5[] = "C";
   char userAnswer5[3];
   scanf("%s", userAnswer5);
-  if (strcmp(userAnswer5, correctAnswer5) == 0) {
+  if (strcmp(userAnswer5, correctAnswer5) == 0 || strcmp(userAnswer5, "c") == 0) {
     printf("\033[0;32mCorrect!\n");
     score++;
   } else {
@@ -117,16 +118,17 @@ int main() {
 
   // Question Number 6
   printf("\033[0;33mQuestion 6\n");
-  printf("\033[0;37mWhat is the integral of Integral cos(x)/(x^2+1)?\n");
+  printf("\033[0;37mWhat is the Integral of cos(x)/(x^2+1)?\n");
   printf("A.pi over e\nB.ln(pi over 2)\nC.ln\nD.I don't know\n");
   char correctAnswer6[] = "A";
   char userAnswer6[3];
   scanf("%s", userAnswer6);
-  if (strcmp(userAnswer6, correctAnswer6) == 0) {
+  if (strcmp(userAnswer6, correctAnswer6) == 0 || strcmp(userAnswer6, "a") == 0){
     printf("\033[0;32mCorrect!\n");
     score++;
   } else {
-    printf("\033[0;31mWrong the correct answer is A \n");
+    printf("\033[0;31mThat was close! The correct answer is A \n");
+    printf("Explaination: Using complex analysis and the residue theorem, we can evaluate the integral of cos(x)/(x^2 + 1) from negative infinity to infinity. We first consider a function f(z) with simple poles at i and -i in the upper half-plane. By evaluating the integral along a semi-circular contour, we can take the residue of f(z) at i and obtain the value of the integral. The final result is π/e.");
   }
   printf("\033[0;37m\nYour score %d out 6.\n", score);
   printf("\n\n");
