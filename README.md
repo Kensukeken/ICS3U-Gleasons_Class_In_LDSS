@@ -16,10 +16,11 @@ Scroll down for more!
 - [Hello World](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Hello%20World!) 
 - [Block Letters](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Block%20Letters)
 - [The Process](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/The%20Process)
-- [Introduction to variables](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Introduction%20to%20variables)
+- [Introduction to variables](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Introduction%20to%20variables) <br/>
+	- [Variables and Output](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Introduction%20to%20variables/Variables%20and%20Output.cpp) 
 - [Math Operators](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Math%20Operators)
 - [Tax Calculator](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Tax%20Calculator)
-- [Variables and Output](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Introduction%20to%20variables/Variables%20and%20Output.cpp)
+
 - [New IO Library](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/New%20IO%20Library)
 - [User Input](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/User%20Input)
 - [Primitive Calculator](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Primitive%20Calculator)
