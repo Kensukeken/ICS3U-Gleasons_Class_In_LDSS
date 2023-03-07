@@ -13,10 +13,20 @@ Scroll down for more!
  Technical Writing | **[topic name]-content.md** or **[topic name]-content.txt** | Technical content can be provided in simple `.txt` text document. You can also style it up and submit a `.md` file if you are aquainted with markdown language.
 
 ## Table of Contents
-- [Hello World](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Hello%20World!) <br/>
+- [Hello World](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Hello%20World!) 
 - [Block Letters](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Block%20Letters)
 - [The Process](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/The%20Process)
-
+- [Introduction to variables](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Introduction%20to%20variables)
+- [Math Operators](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Math%20Operators)
+- [Tax Calculator](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Tax%20Calculator)
+- [Variables and Output](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/Introduction%20to%20variables/Variables%20and%20Output.cpp)
+- [New IO Library](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/New%20IO%20Library)
+- [User Input](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/User%20Input)
+- [Primitive Calculator](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Primitive%20Calculator)
+- [Strings](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Strings)
+- [Strings Functions](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/String%20Functions)
+- [Add Colour to the Console](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Add%20Colour%20to%20the%20Console)
+- [If statements](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Else%20Statements)
 ## Hello World!
 Take a look at the hello.cpp file in the code editor that is placed in the middle of the screen. It’s a C++ program!
 
