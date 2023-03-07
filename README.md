@@ -26,7 +26,15 @@ Scroll down for more!
 - [Strings](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Strings)
 - [Strings Functions](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/String%20Functions)
 - [Add Colour to the Console](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Add%20Colour%20to%20the%20Console)
-- [If statements](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Else%20Statements)
+- [If statements](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Else%20Statements) <br/>
+	- [If-Statements Exercises 1](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%201) <br/>
+	- [If-Statements with Strings](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20with%20Strings)
+	- [If-Else Statements](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Else%20Statements)
+	- [If-Statements Exercises 3](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%203)
+	- [Nested Ifs and Boolean Logic](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Nested%20Ifs%20and%20Boolean%20Logic)
+	- [If-Statements Exercises 4](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%204)
+- [Projects](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/My%20Projects) <br/>
+	- [Trivia Game #1](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/My%20Projects/Trivia%20Game)<br/>
 ## Hello World!
 Take a look at the hello.cpp file in the code editor that is placed in the middle of the screen. It’s a C++ program!
 
