@@ -435,6 +435,36 @@ Use proper if-elseif-else chains to create the following programs:
 ![image](https://user-images.githubusercontent.com/85637598/222169812-4f40e19d-ca59-4798-8fd5-b314ead82ac0.png) <br/>
 Check out the topic here: [If-Statements Exercises 3](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%203)
 ___________________________________________________________________________________________________________________________
+
+## Nested Ifs
+Nested if-statements can check multiple conditions. If the first condition is satisfied, it can check the next. If that condition is satisfied, it can check the next. And so on...
+```bash
+if(condition){
+	if(condition){
+ 		if(condition){
+   			....
+		}
+	}
+}
+```
+Boolean Logic Operators
+As an alternative to nested ifs, we can use the AND operator: &&
+
+We can put more than 1 condition in the brackets separated by the AND symbol.
+```bash
+if(conditionA && conditionB){
+	//if conditionA and conditionB are true, this will run
+}
+```
+There is also another Boolean logic operator called OR: `||` This allows the if-statement to execute if only 1 of the conditions is true.
+```bash
+if(conditionA || conditionB){
+	//if conditionA is true or conditionB is true, this will run
+}
+```
+You can have as many conditions as you like and you can use the `&&` and `||` operators in the same conditional sentence if needed. <br/>
+Check out the topic here: [Nested Ifs and Boolean Logic](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Nested%20Ifs%20and%20Boolean%20Logic)
+___________________________________________________________________________________________________________________________
 ## Nested Ifs and Boolean Operators Exercises
 1. Trace the code and run it. What is the difference in output between Code A and Code B? Why does this occur?
 
@@ -445,6 +475,4 @@ ________________________________________________________________________________
 4. Write a program using an if-elseif-else chain and nested ifs OR Boolean operators that takes in 3 numbers from the user and determines the largest value of the 3. <br/>
 ![image](https://user-images.githubusercontent.com/85637598/222450158-62e33bb2-c81e-45ad-9550-d681ebe1f324.png) <br/>
 Check out the topic here: [If-Statements Exercises 4](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%204)
-___________________________________________________________________________________________________________________________
-
 ___________________________________________________________________________________________________________________________
