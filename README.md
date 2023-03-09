@@ -33,7 +33,10 @@ Scroll down for more!
 	- [If-Else Statements](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Else%20Statements)
 	- [If-Statements Exercises 3](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%203)
 	- [Nested Ifs and Boolean Logic](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/Nested%20Ifs%20and%20Boolean%20Logic)
-	- [If-Statements Exercises 4](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%204)
+	- [If-Statements Exercises 4](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/If-Statements%20Exercises%204) <br/>
+- [New Collector](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/blob/main/New%20Collector/main.cpp)
+- [While Loops](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/While%20Loops)<br/>
+	- [While Loop Exercises](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/While%20Loops/While%20Loop%20Exercises) 
 - [Projects](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/My%20Projects) <br/>
 	- [Trivia Game #1](https://github.com/Kensukeken/ICS3U-Gleasons_Class_In_LDSS/tree/main/My%20Projects/Trivia%20Game)<br/>
 ## Hello World!
